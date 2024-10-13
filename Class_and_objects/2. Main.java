@@ -2,6 +2,8 @@ package Class_and_objects;
 
 public class Main {
     public static void main(String[] args) {
+//        make sure to go through ragnar.java file first
+//        to understad it.
 
 
 //        using ragnar(class) we have created an object called viking1
