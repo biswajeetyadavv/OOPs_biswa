@@ -1,22 +1,25 @@
 # OOPs_biswa
 
-This repository provides an overview of key Object-Oriented Programming (OOP) concepts, organized with examples in Python to help understand and implement them effectively.
+This repository provides an overview of key Object-Oriented Programming (OOP) concepts, 
+organized with examples in Python to help understand and implement them effectively.
 
 📑 Table of Contents
 Introduction
+
 Why OOP?
 Core OOP Concepts
 1. [Classes and Objects](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/1dbc231a927fd9960c303bcda0892c8f58e54b8d/1.%20Class_and_objects)
-2. Encapsulation
-3. Inheritance
-4. Polymorphism
-5. Abstraction
-Repository Structure
+2. [Encapsulation](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/2.%20Abstraction)
+3. [Inheritance](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/3.%20Inheritance)
+4. [Polymorphism](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/4.%20Polymorphism)
+5. [Abstraction](
+   
 Installation & Usage
 Contributing
 License
 🧑‍💻 Introduction
-Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior. It helps design software that is more modular, maintainable, and reusable.
+Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior. 
+It helps design software that is more modular, maintainable, and reusable.
 
 🤔 Why OOP?
 Modularity: Breaking down a system into manageable pieces.
@@ -43,7 +46,8 @@ Abstraction hides the implementation details of a class, exposing only the neces
 Here’s a simplified README.md file focusing on the content structure without code or detailed explanations:
 
 OOP Concepts in Python
-This repository provides an overview of key Object-Oriented Programming (OOP) concepts, organized with examples in Python to help understand and implement them effectively.
+This repository provides an overview of key Object-Oriented Programming (OOP) concepts, 
+organized with examples in Python to help understand and implement them effectively.
 
 📑 Table of Contents
 Introduction
@@ -59,7 +63,8 @@ Installation & Usage
 Contributing
 License
 🧑‍💻 Introduction
-Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior. It helps design software that is more modular, maintainable, and reusable.
+Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior.
+It helps design software that is more modular, maintainable, and reusable.
 
 🤔 Why OOP?
 Modularity: Breaking down a system into manageable pieces.
