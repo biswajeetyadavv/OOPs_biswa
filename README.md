@@ -11,10 +11,10 @@ Core OOP Concepts
 2. [Abstraction](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/2.%20Abstraction)
 3. [Inheritance](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/3.%20Inheritance)
 4. [Polymorphism](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/4.%20Polymorphism)
-5. Encapsulation
-Installation & Usage
-Contributing
-License
+5. Encapsulation<br>
+Installation & Usage<br>
+Contributing<br>
+License<br>
 
 
 🧑‍💻 Introduction<br>
@@ -36,7 +36,7 @@ Encapsulation ensures that data and methods are bundled within a class and prote
 Inheritance enables a class to inherit features and behaviors from another class, fostering reusability.<br>
 4. Polymorphism<br>
 Polymorphism allows objects of different classes to be used interchangeably based on a shared interface.<br>
-5. Abstraction<br>
+5. Abstraction
 Abstraction hides the implementation details of a class, exposing only the necessary functionalities to the user.<br>
 
 
