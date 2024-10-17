@@ -3,8 +3,7 @@
 This repository provides an overview of key Object-Oriented Programming (OOP) concepts, 
 organized with examples in java to help understand and implement them effectively.
 
-📑 Table of Contents
-
+📑 Table of Contents  
 Introduction
 Why OOP?
 Core OOP Concepts
