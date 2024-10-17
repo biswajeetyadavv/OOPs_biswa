@@ -4,15 +4,14 @@ This repository provides an overview of key Object-Oriented Programming (OOP) co
 organized with examples in java to help understand and implement them effectively.
 
 📑 Table of Contents  
-Introduction
-Why OOP?
-Core OOP Concepts
+Introduction  
+Why OOP?  
+Core OOP Concepts  
 1. [Classes and Objects](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/1dbc231a927fd9960c303bcda0892c8f58e54b8d/1.%20Class_and_objects)
 2. [Encapsulation](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/2.%20Abstraction)
 3. [Inheritance](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/3.%20Inheritance)
 4. [Polymorphism](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/4.%20Polymorphism)
 5. Abstraction
-
 Installation & Usage
 Contributing
 License
