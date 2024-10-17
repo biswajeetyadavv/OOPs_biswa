@@ -18,49 +18,46 @@ License
 
 
 🧑‍💻 Introduction<br>
-Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior. 
-It helps design software that is more modular, maintainable, and reusable.
+Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior.<br>
+It helps design software that is more modular, maintainable, and reusable.<br>
 
 
 🤔 Why OOP?<br>
-Modularity: Breaking down a system into manageable pieces.
-Reusability: Classes and components can be reused across projects.
-Scalability: Easy to extend and maintain complex applications.
+Modularity: Breaking down a system into manageable pieces.<br>
+Reusability: Classes and components can be reused across projects.<br>
+Scalability: Easy to extend and maintain complex applications.<br>
 
-📚 Core OOP Concepts
-1. Classes and Objects
-Classes act as blueprints for creating objects, which represent real-world entities.
-2. Encapsulation
-Encapsulation ensures that data and methods are bundled within a class and protects the internal state from unauthorized access.
-3. Inheritance
-Inheritance enables a class to inherit features and behaviors from another class, fostering reusability.
-4. Polymorphism
-Polymorphism allows objects of different classes to be used interchangeably based on a shared interface.
-5. Abstraction
-Abstraction hides the implementation details of a class, exposing only the necessary functionalities to the user.
-
-
-⚙️ Installation & Usage
-Clone the repository:
-bash
-git clone https://github.com/biswajeetyadavv/Object-Oriented-Programming.git
-
-Navigate to the project folder:
-bash
-cd oop-concepts
-
-Run the example scripts to explore the concepts.
-
-or you can reach to my repo to learn it anytime.
+📚 Core OOP Concepts<br>
+1. Classes and Objects<br>
+Classes act as blueprints for creating objects, which represent real-world entities.<br>
+2. Encapsulation<br>
+Encapsulation ensures that data and methods are bundled within a class and protects the internal state from unauthorized access.<br>
+3. Inheritance<br>
+Inheritance enables a class to inherit features and behaviors from another class, fostering reusability.<br>
+4. Polymorphism<br>
+Polymorphism allows objects of different classes to be used interchangeably based on a shared interface.<br>
+5. Abstraction<br>
+Abstraction hides the implementation details of a class, exposing only the necessary functionalities to the user.<br>
 
 
-🤝 Contributing
-Contributions are welcome! If you want to improve this project:
+⚙️ Installation & Usage<br>
+Clone the repository:<br>
+bash<br>
+git clone https://github.com/biswajeetyadavv/Object-Oriented-Programming.git<br>
 
-Fork the repository.
-Create a new branch for your changes.
-Submit a pull request.
+Navigate to the project folder:<br>
+bash<br>
+cd oop-concepts<br>
 
-📄 License
-This project is licensed under the Apache License 2.0. See the LICENSE file for more information.
+Run the example scripts to explore the concepts.<br>
+or you can reach to my repo to learn it anytime.<br>
+
+🤝 Contributing<br>
+Contributions are welcome! If you want to improve this project:<br>
+Fork the repository.<br>
+Create a new branch for your changes.<br>
+Submit a pull request.<br>
+
+📄 License<br>
+This project is licensed under the Apache License 2.0. See the LICENSE file for more information.<br>
 
