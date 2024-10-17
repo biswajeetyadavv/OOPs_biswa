@@ -13,21 +13,26 @@ Core OOP Concepts
 3. [Inheritance](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/3.%20Inheritance)
 4. [Polymorphism](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/4.%20Polymorphism)
 5. Abstraction
+
 Installation & Usage
 Contributing
 License
 
 
 🧑‍💻 Introduction
+
 Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior. 
 It helps design software that is more modular, maintainable, and reusable.
 
+
 🤔 Why OOP?
+
 Modularity: Breaking down a system into manageable pieces.
 Reusability: Classes and components can be reused across projects.
 Scalability: Easy to extend and maintain complex applications.
 
 📚 Core OOP Concepts
+
 1. Classes and Objects
 Classes act as blueprints for creating objects, which represent real-world entities.
 2. Encapsulation
@@ -39,7 +44,9 @@ Polymorphism allows objects of different classes to be used interchangeably base
 5. Abstraction
 Abstraction hides the implementation details of a class, exposing only the necessary functionalities to the user.
 
+
 ⚙️ Installation & Usage
+
 Clone the repository:
 bash
 git clone https://github.com/your-username/oop-concepts.git
@@ -54,6 +61,7 @@ or you can reach to my repo to learn it anytime.
 
 
 🤝 Contributing
+
 Contributions are welcome! If you want to improve this project:
 
 Fork the repository.
