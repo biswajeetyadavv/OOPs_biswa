@@ -1,8 +1,8 @@
 package Class_and_objects;
 
 //class means a buleprint.
-//using which we can create obejects.
-//where we can make an obeject work as per our interest.
+//using which we can create objects.
+//where we can make an object work as per our interest.
 
 //all that work we need to creat in a class.
 
