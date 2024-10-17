@@ -20,19 +20,16 @@ License
 
 
 🧑‍💻 Introduction
-
 Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior. 
 It helps design software that is more modular, maintainable, and reusable.
 
 
 🤔 Why OOP?
-
 Modularity: Breaking down a system into manageable pieces.
 Reusability: Classes and components can be reused across projects.
 Scalability: Easy to extend and maintain complex applications.
 
 📚 Core OOP Concepts
-
 1. Classes and Objects
 Classes act as blueprints for creating objects, which represent real-world entities.
 2. Encapsulation
@@ -46,7 +43,6 @@ Abstraction hides the implementation details of a class, exposing only the neces
 
 
 ⚙️ Installation & Usage
-
 Clone the repository:
 bash
 git clone https://github.com/biswajeetyadavv/Object-Oriented-Programming.git
@@ -61,7 +57,6 @@ or you can reach to my repo to learn it anytime.
 
 
 🤝 Contributing
-
 Contributions are welcome! If you want to improve this project:
 
 Fork the repository.
