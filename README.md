@@ -11,7 +11,8 @@ Core OOP Concepts
 2. [Abstraction](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/2.%20Abstraction)
 3. [Inheritance](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/3.%20Inheritance)
 4. [Polymorphism](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/dc65b776cfb89cd61d803b2312557f1ad1393579/4.%20Polymorphism)
-5. Encapsulation
+5. Encapsulation<br>
+
 Installation & Usage<br>
 Contributing<br>
 License<br>
