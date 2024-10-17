@@ -17,12 +17,12 @@ Contributing
 License
 
 
-🧑‍💻 Introduction
+🧑‍💻 Introduction<br>
 Object-Oriented Programming (OOP) is a paradigm centered around objects, which bundle data and behavior. 
 It helps design software that is more modular, maintainable, and reusable.
 
 
-🤔 Why OOP?
+🤔 Why OOP?<br>
 Modularity: Breaking down a system into manageable pieces.
 Reusability: Classes and components can be reused across projects.
 Scalability: Easy to extend and maintain complex applications.
