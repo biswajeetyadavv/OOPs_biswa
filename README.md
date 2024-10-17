@@ -4,7 +4,9 @@ This repository provides an overview of key Object-Oriented Programming (OOP) co
 organized with examples in Python to help understand and implement them effectively.
 
 📑 Table of Contents
+
 Introduction
+
 Why OOP?
 Core OOP Concepts
 1. [Classes and Objects](https://github.com/biswajeetyadavv/Object-Oriented-Programming/tree/1dbc231a927fd9960c303bcda0892c8f58e54b8d/1.%20Class_and_objects)
