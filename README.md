@@ -1,7 +1,7 @@
 # OOPs_biswa
 
 This repository provides an overview of key Object-Oriented Programming (OOP) concepts, 
-organized with examples in Python to help understand and implement them effectively.
+organized with examples in java to help understand and implement them effectively.
 
 📑 Table of Contents
 
@@ -49,7 +49,7 @@ Abstraction hides the implementation details of a class, exposing only the neces
 
 Clone the repository:
 bash
-git clone https://github.com/your-username/oop-concepts.git
+git clone https://github.com/biswajeetyadavv/Object-Oriented-Programming.git
 
 Navigate to the project folder:
 bash
